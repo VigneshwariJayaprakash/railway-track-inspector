@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment
+.env
+.venv
+railway-vision/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific - DO NOT COMMIT THESE
+# ==========================================
+
+# Datasets (too large for GitHub)
+data/roboflow_dataset/
+data/*/images/
+data/*/labels/
+data/**/*.jpg
+data/**/*.png
+data/**/*.txt
+data/**/*.xml
+
+# YOLO Training Runs (contains large weights and logs)
+runs/
+weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.mlmodel
+
+# Large artifacts (keep only small samples)
+artifacts/sample_outputs/*.jpg
+artifacts/sample_outputs/*.png
+!artifacts/sample_outputs/.gitkeep
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Keep directory structure
+!data/README.md
+!artifacts/screenshots/.gitkeep
+!artifacts/sample_outputs/.gitkeep
