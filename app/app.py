@@ -20,6 +20,9 @@ import json
 # Add parent directory to path to import from src/
 sys.path.append(str(Path(__file__).parent.parent))
 
+# Check if model exists (for deployment)
+DEMO_MODE = not Path("runs/detect/railway_defect_v2/weights/best.pt").exists()
+
 from ultralytics import YOLO
 
 # Import decision logic
@@ -163,6 +166,24 @@ def main():
     st.markdown("**AI-Powered Railway Track Defect Detection System with Three-Tier Confidence**")
     st.markdown("Upload an image to detect missing fasteners, cracks, and other track defects.")
     
+    # Demo mode warning for deployment
+    if DEMO_MODE:
+        st.warning("🔧 **Demo Mode:** This deployment shows the dashboard interface. Model inference requires local setup with trained weights.")
+        st.info("📁 **To run with full detection:** Clone the [GitHub repository](https://github.com/VigneshwariJayaprakash/railway-track-inspector) and follow setup instructions in the README.")
+        
+        st.markdown("---")
+        st.subheader("📸 Dashboard Preview")
+        st.markdown("""
+        This demo shows the user interface and features:
+        - ✅ Three-tier confidence system (High/Medium/Low)
+        - ✅ Interactive controls and settings
+        - ✅ Professional inspection reports
+        - ✅ Exportable results (JSON/CSV)
+        
+        **For full functionality with live detection**, run locally following the setup guide.
+        """)
+        st.markdown("---")
+    
     # Sidebar
     st.sidebar.header("⚙️ Configuration")
     
@@ -264,12 +285,49 @@ def main():
         st.subheader("🔍 Detection Results")
         
         if uploaded_file is not None:
-            # Check if model exists
-            if not Path(model_path).exists():
-                st.error(f"❌ Model not found at: {model_path}")
-                st.info("Please train a model first or update the model path in the sidebar.")
+            # Check if model exists or demo mode
+            if DEMO_MODE or not Path(model_path).exists():
+                st.error("❌ Model file not available in this deployment.")
+                st.info("**This is a UI demonstration.** For full functionality with live detection:")
+                st.markdown("""
+                ### Run Locally:
+                
+                1. **Clone the repository:**
+```bash
+                   git clone https://github.com/VigneshwariJayaprakash/railway-track-inspector.git
+                   cd railway-track-inspector
+```
+                
+                2. **Install dependencies:**
+```bash
+                   conda create -n railway-vision python=3.10 -y
+                   conda activate railway-vision
+                   pip install -r requirements.txt
+```
+                
+                3. **Download dataset and train model** (or use pre-trained weights)
+                
+                4. **Run dashboard:**
+```bash
+                   streamlit run app/app.py
+```
+                
+                **📖 Full setup guide:** [README.md](https://github.com/VigneshwariJayaprakash/railway-track-inspector#readme)
+                """)
+                
+                st.markdown("---")
+                st.subheader("📊 Example Results")
+                st.markdown("""
+                When running locally with the trained model, you would see:
+                - Annotated images with bounding boxes
+                - Safety assessment (Safe/Review/Needs Inspection/Critical)
+                - Confidence scores and detection tables
+                - Exportable reports (JSON/CSV)
+                
+                **See screenshots in the repository** for examples of actual detections.
+                """)
             else:
-                # Load model
+                # Load model (only if not in demo mode)
                 with st.spinner("Loading model..."):
                     model = load_model(model_path)
                 
@@ -441,7 +499,8 @@ def main():
         <div style='text-align: center; color: #666; padding: 1rem;'>
         <small>Railway Track Inspector v2.0 | Built with YOLO11s + Streamlit | 
         Enhanced with Three-Tier Confidence System</small><br>
-        <small>mAP@50: 48.2% | Recall: 51.1% | Optimized for Safety-Critical Applications</small>
+        <small>mAP@50: 48.2% | Recall: 51.1% | Optimized for Safety-Critical Applications</small><br>
+        <small>📁 <a href="https://github.com/VigneshwariJayaprakash/railway-track-inspector" target="_blank">View on GitHub</a></small>
         </div>
         """,
         unsafe_allow_html=True
