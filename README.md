@@ -57,7 +57,7 @@ pip install -r requirements.txt
 2. Export in **YOLO (Ultralytics)** format
 3. Unzip into `data/roboflow_dataset/`
 
-See [data/README.md](data/README.md) for detailed instructions.
+See [data/README.md](data/roboflow_dataset/README.md) for detailed instructions.
 
 ### Run the Dashboard
 ```bash
