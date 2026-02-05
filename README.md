@@ -312,7 +312,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - [x] Week 2: Model V1 training (baseline) ✅
 - [x] Week 3: Model V2 training (enhanced) ✅
 - [x] Week 4: Dashboard & documentation ✅
-- [ ] Deployment on Streamlit Cloud (optional)
+- [ ] Deployment on Streamlit Cloud 
 
 ---
 
