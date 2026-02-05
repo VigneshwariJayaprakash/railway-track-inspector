@@ -302,7 +302,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - Email: vjayapr1@asu.edu
 - GitHub: [@VigneshwariJayaprakash](https://github.com/VigneshwariJayaprakash)
-- LinkedIn: [(https://www.linkedin.com/in/vigneshwari31/)]
+- LinkedIn: https://www.linkedin.com/in/vigneshwari31/
 
 ---
 
