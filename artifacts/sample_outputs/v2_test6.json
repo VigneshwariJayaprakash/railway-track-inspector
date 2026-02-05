@@ -1,0 +1,19 @@
+{
+  "image": "data\\roboflow_dataset\\test\\images\\IMG_20220226_094119_jpg.rf.468df5662843da8ff8aeb467f4a5bd84.jpg",
+  "model": "runs\\detect\\railway_defect_v2\\weights\\best.pt",
+  "confidence_threshold": 0.25,
+  "num_detections": 1,
+  "detections": [
+    {
+      "class_id": 1,
+      "class_name": "fastener",
+      "confidence": 0.5474073886871338,
+      "bbox": {
+        "x1": 395.67535400390625,
+        "y1": 215.51771545410156,
+        "x2": 509.18658447265625,
+        "y2": 313.6834716796875
+      }
+    }
+  ]
+}

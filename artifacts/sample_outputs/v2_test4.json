@@ -1,0 +1,30 @@
+{
+  "image": "data\\roboflow_dataset\\test\\images\\IMG_20220223_124010_jpg.rf.e95b676408adca4ba000ea3a654c94b7.jpg",
+  "model": "runs\\detect\\railway_defect_v2\\weights\\best.pt",
+  "confidence_threshold": 0.25,
+  "num_detections": 2,
+  "detections": [
+    {
+      "class_id": 2,
+      "class_name": "missing fastener",
+      "confidence": 0.46246039867401123,
+      "bbox": {
+        "x1": 416.8402099609375,
+        "y1": 295.2255554199219,
+        "x2": 497.76708984375,
+        "y2": 396.3136291503906
+      }
+    },
+    {
+      "class_id": 3,
+      "class_name": "non defective fishplate",
+      "confidence": 0.3853150010108948,
+      "bbox": {
+        "x1": 178.03741455078125,
+        "y1": 188.6742401123047,
+        "x2": 520.045166015625,
+        "y2": 345.56976318359375
+      }
+    }
+  ]
+}

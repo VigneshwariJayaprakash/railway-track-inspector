@@ -1,0 +1,7 @@
+{
+  "image": "data\\roboflow_dataset\\test\\images\\IMG_20220223_134154_jpg.rf.7d1ef6c4eecfbc4a1f5ae5d2393d2f4f.jpg",
+  "model": "runs\\detect\\railway_defect_v2\\weights\\best.pt",
+  "confidence_threshold": 0.25,
+  "num_detections": 0,
+  "detections": []
+}

@@ -1,0 +1,1038 @@
+[
+  {
+    "image": "IMG_20220222_164841_jpg.rf.b36478f85d06d3664d1636fa6bd68682.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220222_170145_jpg.rf.491392524acb9969b31e054d6e0111c1.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220223_121732_jpg.rf.8a86f52489e9c6f334d3928ff51d88b6.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220223_124010_jpg.rf.e95b676408adca4ba000ea3a654c94b7.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220223_134154_jpg.rf.7d1ef6c4eecfbc4a1f5ae5d2393d2f4f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_094119_jpg.rf.468df5662843da8ff8aeb467f4a5bd84.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_094135_jpg.rf.be03216a1f16c95ee27b7530cc234019.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_094217_jpg.rf.8cc840c1d512a48d5bbcca940e1ce5e8.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_094312_jpg.rf.37752b861d23f78adbacbd6c0781d6a5.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_095651_jpg.rf.78fa57a23e7f126e93f75fd80ef33ce5.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_122143_jpg.rf.efaaa0901e6b23a373073885bdd42c45.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_122500_jpg.rf.95809ded47255934acbc223f8e7e42dc.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_122523_jpg.rf.7cdcf7c6c3983d7315de233d5297ecf4.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_122855_jpg.rf.6159c6b998549ef11cfe396402bb49b4.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123054_jpg.rf.fe1286e078a2a5d0f6b799f71b47da9c.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123133_jpg.rf.5486accddcdb69bb2d1babaa2269d114.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123348_jpg.rf.a03599d51a395f6e9cab2d7ab00dea8e.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123415_jpg.rf.fb66da1f39025c47b7eb0da3fb6790cc.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123521_jpg.rf.23a38e3f8537c71057a147f8f5a290fd.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123611_jpg.rf.bf7216f494a6b10f22eb571378ca8325.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_123622_jpg.rf.1c5586099489fdbd56aae576940cbd9c.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_124021_jpg.rf.48eed139640694b2d312515bab778ef7.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_124355_jpg.rf.e7cbe9ef5562cd48c5dac4471244a79c.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_124427_jpg.rf.2e4c961f1740cbca5ccac3581b6d1f0d.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 0,
+        "class_name": "defective fishplate",
+        "confidence": 0.2624179422855377,
+        "bbox": [
+          0.0,
+          373.0587463378906,
+          65.24971008300781,
+          459.3370666503906
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220226_125012_jpg.rf.d9dee2f6dd16e90233d72dd214a28cc2.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_125143_jpg.rf.470bcd01a65d98b0679676b744b9ae10.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_125805_jpg.rf.fdaa67e8cf43af8af3914965070ce7e5.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_125824_jpg.rf.821ffaf2fc4eb89b4d759c14cee2d296.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_125830_jpg.rf.118d9d72b5a33a7314ffc5f0b6a8ee81.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_125903_jpg.rf.6d303952a6e85fd1dede9a1136a06aaf.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_130335_jpg.rf.841585ba7e32000bff46e20448a14f03.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_130402_jpg.rf.40a6ddd52026799017aed7522aaeeb42.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_132426_jpg.rf.28369eb9f334b3faa1e84323e76d25fb.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_132533_jpg.rf.178fed0dd17834b9d523a4b64ec9db81.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_132634_jpg.rf.edfbd9785cd6c5cd8014a7f989baaca8.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_132736_jpg.rf.f12bedf58a11dbaac69dffd8bea8d654.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_133204_jpg.rf.f1386657d2027073e9e22edbf9f6e5b2.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_133207_jpg.rf.5927bc1852307dccc967a97250db5562.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_133357_jpg.rf.a80a3dd51a71e582e706e7f776ade95c.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_133550_jpg.rf.1fb4fe9728cf779b7269beeb3ebaa4a8.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_133635_jpg.rf.837db378c314b9877d48886cefed1202.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220226_135023_jpg.rf.48e0bd9f572fcfd990f12943df2b12f0.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_170528_jpg.rf.1c484cabad124a3fcb962186fe309fa3.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_170617_jpg.rf.6005215e9f11331fde68cc734b9d16ff.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_170911_jpg.rf.b67701f0a1814021c7ce73d5981ad2dc.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_171742_jpg.rf.85c0942f6708ab8423f38169c5a80f29.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_171758_jpg.rf.e4a69d4fc82180f5325f7a930f58dcd6.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_171812_jpg.rf.6bbf2a124f1704ab137c90742f0ffd7d.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_172307_jpg.rf.f31756864ac2a6be47846b1e9fba9ad6.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_172348_jpg.rf.c02d35a5646e7b0f4c06b700def522d3.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_172518_jpg.rf.540c6fe4edca184eaf7bc41858074e15.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_172529_jpg.rf.c5dd72823e29b728964360e6ef4ddce5.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_172537_jpg.rf.1fa99d1e0947871a23beb5212677e13d.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_173128_jpg.rf.859e243dde0865d10f9ba6008764cc48.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_173206_jpg.rf.c896e48619424699d3c7b1b84593f37a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_173416_jpg.rf.121844dcdfe379fbdafbfa5b45b71096.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_173557_jpg.rf.56cb1871b7d3bc92e48ece7c5192f3b7.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_173610_jpg.rf.6b46193a2fc10a54252c829dcd9bfc93.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220301_174057_jpg.rf.0da049d080ae9e5908787cf083411d4a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_130139_jpg.rf.dcf2b8137208bebf84cb5dd855009194.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_130315_jpg.rf.e29318c907c4d2baf90f2a9fe8a3dc80.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_130650_jpg.rf.43c06dc0ddc9625fe48d92b219b4f5e0.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.3906365633010864,
+        "bbox": [
+          128.0047607421875,
+          278.14874267578125,
+          363.89874267578125,
+          354.13104248046875
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220518_132004_jpg.rf.5643e9059d7675df4435281a525211a9.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_132306_jpg.rf.3bbb8af94ec6f8d82c32878da8c251e0.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_132709_jpg.rf.10b500a37ba6c45b068633d61c3f1c9b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_133405_jpg.rf.2493410837c9954ab15be3eedc1e5a3b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_133450_jpg.rf.02229ff8f469705f6c0e6edcb4d32499.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_133743_jpg.rf.47f826abc6979c5a339f2f9492f9bc66.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_153937_jpg.rf.ab16cc9b9bcc2031b6e6a5a0be2620e8.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_153959_jpg.rf.10202356c993f937f737386292be3a2a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_154059_jpg.rf.6d635c561e73bf223804254b9e546af5.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_155316_jpg.rf.7f6f52233b0a0ddc44dd038e5e04cba4.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_155655_jpg.rf.027c5aa6ce5f5ccb40c8187af26f5891.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_155738_jpg.rf.84b1873561b2cd460528decfab58aded.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.31695544719696045,
+        "bbox": [
+          234.6630401611328,
+          348.57257080078125,
+          459.51861572265625,
+          403.60833740234375
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220518_155856_jpg.rf.183f7e362b166b0ab0538c4b8c6dd710.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_160421_jpg.rf.a3e377be19fc0f4dbc4d233a68ab63cf.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_160548_jpg.rf.9073d00764733c878a8bc9ff3de9cc3f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_161651_jpg.rf.35a111b69bf7985748af7e8ecf51a265.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_161742_jpg.rf.6da3bf1ae7702fb8569842cec33a94d1.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_162529_jpg.rf.00c93f0807ff2e1ff245f3e9c796382b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_163117_jpg.rf.e4dd8fa0633cecc432347d3236e61492.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_163419_jpg.rf.599c2895ca7c5cb0aeb7e33f7143a2de.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_163710_jpg.rf.ad9468c76ae73e787e84ab9b6d2dcb69.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_163930_jpg.rf.3d6957472c1e7b80117534c6b95b8aea.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164015_jpg.rf.0b107edaf5f3aeab9215f50683635726.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164032_jpg.rf.c89947ca208310d69efcb0a1d7e91499.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164209_jpg.rf.3b74d5014fd0c6d9541eeaf25039beb0.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164317_jpg.rf.7f893bf02705b1d5a6f538bbc073b30d.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164630_jpg.rf.929c5f6aff774e4d32ddbe58dbc017e4.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164729_jpg.rf.392a0b6fee876e11b024e97576433bb7.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_164827_jpg.rf.a26311fce82cd7dbeafb3a157913f79b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_165254_jpg.rf.8d9e2cf72f1e2b82d7add9603dffa6f4.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220518_165305_jpg.rf.c93a999352cb45856e10380edefec00b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_110854_jpg.rf.d3e3e9d2f9b3001ff6bfc3be65651cf2.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_110920_jpg.rf.62a91ce633b1ec01b2f243dabb0fbf6b.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.322389155626297,
+        "bbox": [
+          216.09481811523438,
+          158.61114501953125,
+          429.0476379394531,
+          234.16058349609375
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220519_110956_jpg.rf.e235d0b488c1d11d9b86e25d07a95c22.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_111104_jpg.rf.dfc77e4eb0318ad53731426c3c925f14.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_111153_jpg.rf.433f95e7ac1560921e2c1c9c3b3e84e5.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_111638_jpg.rf.2f755d28a4468e789248929085150901.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.4307391941547394,
+        "bbox": [
+          200.1285858154297,
+          254.1302947998047,
+          446.45587158203125,
+          350.96246337890625
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220519_111734_jpg.rf.56ec11f6cc6fb009be8577efb5224024.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_111900_jpg.rf.6b2e137eb00e5a0e43165fbb37253ec9.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_112104_jpg.rf.91a6cabb70603a6601abd490ff24ef18.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_112149_jpg.rf.207b8133b7a393bf21a05e78b7de067e.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.5910361409187317,
+        "bbox": [
+          164.95480346679688,
+          239.5425567626953,
+          412.7391052246094,
+          304.84014892578125
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220519_114247_jpg.rf.77945716d1808722d297f9bebcc43726.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_114521_jpg.rf.195cacce67309d7685044930f16b8ca3.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_114527_jpg.rf.e88b1462359ed91d70413ecceceee56a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_115033_jpg.rf.4bc0677a136c1770be03c9c45bb74523.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_115732_jpg.rf.4ef9186df8141e6d11aa25cc0cf8d6be.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_115826_jpg.rf.5fe9a819317319669f4348f747f2eeb6.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_120319_jpg.rf.56726d6fb1bc9a5fda525463350628fe.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_120416_jpg.rf.fb605d54c884857761517750717e26e2.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_120848_jpg.rf.c9710652ac2feb20d7667aa3409d82fe.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_121143_jpg.rf.4163435c51e4854ad4b6bdc1d7edc960.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_131022_jpg.rf.364a9c73478296595fa0bd2627881605.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_131142_jpg.rf.b665d1cccfd5f24e23af1b36af94b81d.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_131400_jpg.rf.ae1ce95e01bd172a461baefe75aac6d0.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_132316_jpg.rf.333c0419f15eb4144997f376252e4dc9.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_132322_jpg.rf.6b2b45e93a6a3d45ca385ba8e154b38a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_155411_jpg.rf.2f56786439e77ed598d009473e12d44d.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_155455_jpg.rf.85adbcda55672739303032268f05c4b9.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_155549_jpg.rf.6e92125f4c741edd1c6e70724264d1bd.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_155744_jpg.rf.8c1580ffff2f52168b256af00a4118a7.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_155931_jpg.rf.3096edcb67d2d8872981b09ca9d3c514.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.3452512323856354,
+        "bbox": [
+          237.07484436035156,
+          186.32955932617188,
+          511.43359375,
+          279.6685791015625
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220519_155958_jpg.rf.ed4968c49a8ef7591f1a386c2af16b62.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_160152_jpg.rf.ac1a330be2bc55912d889b3abbfbfb28.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_160205_jpg.rf.b1a74fa22bcf78d9fae102738a0be8b9.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_160445_jpg.rf.981f74fe94a51305b884ae23ac25f137.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_161038_jpg.rf.351a840178aa9c5c94d19a122329c391.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_161120_jpg.rf.39664106e05a9fd6ecb4068a08b21dbb.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_161457_jpg.rf.301d3719e5dc1efa1f609b9b9c04507d.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_161619_jpg.rf.5d25794f447b7cce142281afa008b888.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_161903_jpg.rf.06b8a1e5e7c6ccca1ab26f40127fc39a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162305_jpg.rf.80229c447cdf64922aa7a2d97682a046.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162445_jpg.rf.4f7ee5c6f72a4eeadb49d6ef5dd666af.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162506_jpg.rf.a323dc6733f1de432d07e9887e5f8510.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162635_jpg.rf.ed02b9fcc6fabe1fc87d647c13ce5021.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162651_jpg.rf.838450b33bf37ef58e119df70dfff73b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162705_jpg.rf.6439a9696a3ab3ee798b70005da30d78.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_162755_jpg.rf.90b9c719f8d581654a6b5198e19b59b8.jpg",
+    "num_detections": 1,
+    "detections": [
+      {
+        "class_id": 3,
+        "class_name": "non defective fishplate",
+        "confidence": 0.32143187522888184,
+        "bbox": [
+          249.8021240234375,
+          221.59844970703125,
+          523.3809814453125,
+          301.50335693359375
+        ]
+      }
+    ]
+  },
+  {
+    "image": "IMG_20220519_163514_jpg.rf.b3cf0ade90a9f916cb5b38c6bbaadd6f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_163558_jpg.rf.a1562ed9c780adb3c2c4f60f6479bb9f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_164103_jpg.rf.ea13ba63e74325f9dc133eed3ca02187.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_164129_jpg.rf.3ddf7d2cc27f1e6f00e2bf22a98f8474.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220519_164139_jpg.rf.17d3a8aa25c84123d21f4d45c624ccf6.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_143424_jpg.rf.ea738b878b856cc44d3b2e5a1f90c725.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_143516_jpg.rf.bf88e44cdb88a680e767867515e9d349.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_143908_jpg.rf.8ac8d444e7408b7665a6af93a7f1d040.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_144312_jpg.rf.d39e22fd5144e6ef0765b16d5c0536c0.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_144320_jpg.rf.5b12bc54eaa4dd7585a067915c0b6688.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_144442_jpg.rf.cb63a644fabe2c3391c2102f5ae81521.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_145419_jpg.rf.231c0b71309c2be56538ec3331843085.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_145955_jpg.rf.f8ce61edf5aa793166f2c5c4a4ca72cd.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_151136_jpg.rf.d522eff16415a1c1382fcb2003481f99.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_151231_jpg.rf.f17aafc7b9849eb3819c993e205484d8.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_151449_jpg.rf.ebe6e055aac7015a251f781c001fa23e.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_151857_jpg.rf.1e3911a9d037c2a5b2064894e18e4d08.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_152012_jpg.rf.2617e405d2afd46c544b9643ac612d09.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_152309_jpg.rf.7799cbba5a57979f500ea238a406940f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_152519_jpg.rf.8b1912e3620d485d73e5221b87e2115f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_153537_jpg.rf.1702def7c38c408bf1aca40e87268f3b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_153724_jpg.rf.afe7847680cc628fe881fddbe2e78869.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_153759_jpg.rf.9a1646e52ad599cae83ce12ab1f0b58a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_154313_jpg.rf.ab0402fc43e2153fddb8f57cbb148200.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_165252_jpg.rf.ac96b524f05d7757e5132844e533130b.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_165729_jpg.rf.be6e701a81da6eb86022f4fe338859ba.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_165822_jpg.rf.4ff0b965b54579b5ce2f272244637169.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_170603_jpg.rf.2ea717497cf41ff579b6e65f2752aa01.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_170700_jpg.rf.0c92916957882d35df2516fd9dfd60c4.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_170803_jpg.rf.30e56f7043f43c51abba8f793aebf48a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_170845_jpg.rf.06121a1e584a58c56f65e341f4a46ec0.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_170855_jpg.rf.3e86f71946c566741e640592db5aa877.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_170945_jpg.rf.9832546f94c0b463eebbfa64a54cd531.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171011_jpg.rf.3a3b8db99a91700eaa2972228e786133.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171429_jpg.rf.9d642ada603de9aba4110b9fad27443a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171730_jpg.rf.3704141f0658427760ae4a7ab3f01e88.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171842_jpg.rf.7dedd515d72f6c0789af9b7e1487d5f2.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171851_jpg.rf.2f661c1e9714c42dfd48500ddce3b35a.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171910_jpg.rf.a555dbb5b0dd9ba7511f6686b66bfb6f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_171937_jpg.rf.1f9df2bb39676f664e1dec472c9e7944.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_172046_jpg.rf.8db96bdc79fde74530434012cc77d575.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_172103_jpg.rf.af7e5e1d96e27178ac3b5e248d2314ef.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_172205_jpg.rf.130f96e655998ba9def7897a49a63e67.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_172602_jpg.rf.a8b5dd723fffc42024f7b05925da00bf.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_172751_jpg.rf.36b9970c91147042daa9aaae2e599802.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_172950_jpg.rf.e615f83a4b5abd3bb0a458846082ec4c.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_174338_jpg.rf.92cf7f5aa83f10a136c15911cc837d9f.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_174640_jpg.rf.a34695e1c5ca4341db339bef15c44adc.jpg",
+    "num_detections": 0,
+    "detections": []
+  },
+  {
+    "image": "IMG_20220522_174727_jpg.rf.82b03ba4da67e87845d6d9cf77c6f440.jpg",
+    "num_detections": 0,
+    "detections": []
+  }
+]

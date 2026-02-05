@@ -1,0 +1,19 @@
+{
+  "image": "data\\roboflow_dataset\\test\\images\\IMG_20220222_170145_jpg.rf.491392524acb9969b31e054d6e0111c1.jpg",
+  "model": "runs\\detect\\railway_defect_v2\\weights\\best.pt",
+  "confidence_threshold": 0.25,
+  "num_detections": 1,
+  "detections": [
+    {
+      "class_id": 3,
+      "class_name": "non defective fishplate",
+      "confidence": 0.41709646582603455,
+      "bbox": {
+        "x1": 182.80853271484375,
+        "y1": 237.2775421142578,
+        "x2": 478.63958740234375,
+        "y2": 349.01177978515625
+      }
+    }
+  ]
+}
